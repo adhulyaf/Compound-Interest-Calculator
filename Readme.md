@@ -39,10 +39,10 @@ The amount after 3 years is: 5796.37
 ## Technologies Used
 Java
 VS Code
-Java Math Library
 
 ## How to Run the Program
 Open the terminal and Type `java CI.java`
 
 ## Author
+
 Adhulya F
